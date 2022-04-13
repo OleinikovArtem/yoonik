@@ -1,0 +1,7 @@
+requests
+flask
+PyJWT
+beautifulsoup4
+waitress
+flask-wtf
+yk-utils==1.1.0
